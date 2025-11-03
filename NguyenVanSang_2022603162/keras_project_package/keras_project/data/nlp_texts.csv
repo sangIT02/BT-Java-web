@@ -1,0 +1,15 @@
+text,label
+I love deep learning with Keras,1
+This model performs extremely well,1
+Training accuracy is high and stable,1
+Great GPU runtime in Colab,1
+The results are promising and impressive,1
+Transfer learning speeds up experiments,1
+Callbacks improved validation accuracy,1
+The model performs poorly on validation,0
+Training is unstable and overfitting,0
+The accuracy is low and disappointing,0
+Runtime errors appear frequently,0
+Results are not good and inconsistent,0
+Optimization converges very slowly,0
+Validation loss keeps increasing,0
